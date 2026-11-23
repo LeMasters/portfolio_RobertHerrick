@@ -53,6 +53,11 @@ sections:
       Left: the first confirmation sends you looking for “Admission.” Right: the
       revised confirmation tells a prepaid visitor which line to skip and which
       doors to use.
+
+
+      My shortest draft was “Skip the line.” I crossed it out. On a busy night
+      there are two lines, and somebody with a prepaid ticket still has to wait
+      for the usher.
   - heading: Reflection
     text: "The revision hasn't been tested yet, and the flow stops before payment.
       My classmates could show me where my wording confused them; they can't

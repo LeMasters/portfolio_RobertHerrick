@@ -2,6 +2,7 @@
 title: Doors at Six
 projectKind: project
 caption: A pocket schedule for a one-night reading with two start times.
+image: images/doors-at-six_project-image_1800x1200.jpg
 alt: An unfolded pocket schedule with doors at 6:00 and readings at 6:30 printed
   on the same panel.
 year: Fall 2026

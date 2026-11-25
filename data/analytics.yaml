@@ -1,2 +1,3 @@
-service: none
+service: goatcounter
+code: lemasters
 aiTraining: false

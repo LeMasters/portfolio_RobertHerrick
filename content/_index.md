@@ -1,6 +1,6 @@
 ---
 name: Robert Herrick
-expertise: Miami ETBD sophomore interested in web content and interaction design
+expertise: Miami of Ohio ETBD sophomore interested in web content and interaction design
 email: robert.herrick@example.org
 ---
 I make first visits a little easier on you.
